@@ -1,0 +1,5 @@
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\02-Float or Double\bin\Debug\02-Float or Double.exe.config
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\02-Float or Double\bin\Debug\02-Float or Double.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\02-Float or Double\bin\Debug\02-Float or Double.pdb
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\02-Float or Double\obj\Debug\02-Float or Double.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\02-Float or Double\obj\Debug\02-Float or Double.pdb

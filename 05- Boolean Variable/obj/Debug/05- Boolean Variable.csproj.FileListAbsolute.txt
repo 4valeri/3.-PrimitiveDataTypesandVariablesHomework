@@ -1,0 +1,5 @@
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\05- Boolean Variable\bin\Debug\05- Boolean Variable.exe.config
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\05- Boolean Variable\bin\Debug\05- Boolean Variable.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\05- Boolean Variable\bin\Debug\05- Boolean Variable.pdb
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\05- Boolean Variable\obj\Debug\05- Boolean Variable.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\05- Boolean Variable\obj\Debug\05- Boolean Variable.pdb

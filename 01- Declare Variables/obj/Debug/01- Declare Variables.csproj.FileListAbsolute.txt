@@ -1,0 +1,6 @@
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\bin\Debug\01- Declare Variables.exe.config
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\bin\Debug\01- Declare Variables.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\bin\Debug\01- Declare Variables.pdb
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\obj\Debug\01- Declare Variables.csprojResolveAssemblyReference.cache
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\obj\Debug\01- Declare Variables.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\01- Declare Variables\obj\Debug\01- Declare Variables.pdb

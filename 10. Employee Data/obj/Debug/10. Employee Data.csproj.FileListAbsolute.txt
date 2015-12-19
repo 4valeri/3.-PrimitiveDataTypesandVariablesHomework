@@ -1,0 +1,5 @@
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+c:\users\us\documents\visual studio 2015\Projects\3. PrimitiveDataTypesandVariablesHomework\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
